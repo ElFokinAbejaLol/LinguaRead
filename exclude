@@ -1,0 +1,77 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .streamlit/config.toml
+#	new file:   README.md
+#	new file:   linguaread/__init__.py
+#	new file:   linguaread/__pycache__/__init__.cpython-311.pyc
+#	new file:   linguaread/__pycache__/dashboard.cpython-311.pyc
+#	new file:   linguaread/__pycache__/recommender.cpython-311.pyc
+#	new file:   linguaread/__pycache__/reviews.cpython-311.pyc
+#	new file:   linguaread/dashboard.py
+#	new file:   linguaread/data/books.csv
+#	new file:   linguaread/data/covers/1984.jpg
+#	new file:   linguaread/data/covers/a_bolsa_amarela.jpg
+#	new file:   linguaread/data/covers/a_hora_da_estrela.jpg
+#	new file:   linguaread/data/covers/amor_de_perdicao.jpg
+#	new file:   linguaread/data/covers/anne_of_green_gables.jpg
+#	new file:   linguaread/data/covers/arsene_lupin.jpg
+#	new file:   linguaread/data/covers/aura.jpg
+#	new file:   linguaread/data/covers/bernarda_alba.jpg
+#	new file:   linguaread/data/covers/bonjour_tristesse.jpg
+#	new file:   linguaread/data/covers/capitaes_da_areia.jpg
+#	new file:   linguaread/data/covers/charlottes_web.jpg
+#	new file:   linguaread/data/covers/cien_anos_de_soledad.jpg
+#	new file:   linguaread/data/covers/como_agua_para_chocolate.jpg
+#	new file:   linguaread/data/covers/das_fliegende_klassenzimmer.jpg
+#	new file:   linguaread/data/covers/der_richter_und_sein_henker.jpg
+#	new file:   linguaread/data/covers/der_vorleser.jpg
+#	new file:   linguaread/data/covers/die_verwandlung.jpg
+#	new file:   linguaread/data/covers/dom_casmurro.jpg
+#	new file:   linguaread/data/covers/don_juan_tenorio.jpg
+#	new file:   linguaread/data/covers/effi_briest.jpg
+#	new file:   linguaread/data/covers/el_principe_de_la_niebla.jpg
+#	new file:   linguaread/data/covers/emil_und_die_detektive.jpg
+#	new file:   linguaread/data/covers/fray_perico.jpg
+#	new file:   linguaread/data/covers/great_expectations.jpg
+#	new file:   linguaread/data/covers/kamo_lidee_du_siecle.jpg
+#	new file:   linguaread/data/covers/la_planete_des_singes.jpg
+#	new file:   linguaread/data/covers/la_sombra_del_viento.jpg
+#	new file:   linguaread/data/covers/le_petit_nicolas.jpg
+#	new file:   linguaread/data/covers/le_petit_prince.jpg
+#	new file:   linguaread/data/covers/les_miserables.jpg
+#	new file:   linguaread/data/covers/letranger.jpg
+#	new file:   linguaread/data/covers/madame_bovary.jpg
+#	new file:   linguaread/data/covers/manolito_gafotas.jpg
+#	new file:   linguaread/data/covers/marcelo_marmelo_martelo.jpg
+#	new file:   linguaread/data/covers/momo.jpg
+#	new file:   linguaread/data/covers/nada.jpg
+#	new file:   linguaread/data/covers/narnia.jpg
+#	new file:   linguaread/data/covers/no_et_moi.jpg
+#	new file:   linguaread/data/covers/o_alquimista.jpg
+#	new file:   linguaread/data/covers/o_crime_do_padre_amaro.png
+#	new file:   linguaread/data/covers/o_gato_malhado.jpg
+#	new file:   linguaread/data/covers/o_meu_pe_de_laranja_lima.jpg
+#	new file:   linguaread/data/covers/pride_and_prejudice.jpg
+#	new file:   linguaread/data/covers/rebecca.jpg
+#	new file:   linguaread/data/covers/siddhartha.jpg
+#	new file:   linguaread/data/covers/the_secret_garden.jpg
+#	new file:   linguaread/data/covers/timm_thaler.jpg
+#	new file:   linguaread/data/covers/tschick.jpg
+#	new file:   linguaread/data/covers/wonder.jpg
+#	new file:   linguaread/data/covers/wuthering_heights.jpg
+#	new file:   linguaread/data/user_data.json
+#	new file:   linguaread/gui.py
+#	new file:   linguaread/main.py
+#	new file:   linguaread/recommender.py
+#	new file:   linguaread/reviews.py
+#	new file:   requirements.txt
+#	new file:   streamlit_app.py
+#	new file:   tools/import_manual_covers.py
+#
